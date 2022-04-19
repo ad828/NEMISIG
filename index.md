@@ -9,7 +9,7 @@ If you have any questions, please direct them to the [Google Group](mailto:nemis
 
 This year, NEMISIG will be in Newark NJ, Saturday, June 4th 2022 at NJIT.  [Add this event to your calendar]( https://calendar.google.com/event?action=TEMPLATE&tmeid=M3BzMjcwdjhoMjdpbHRxNDNydjZjMzY5c2QgYWQ4MjhAbmppdC5lZHU&tmsrc=ad828%40njit.edu)
 
-![NJIT](/images/njit.png)
+![NJIT](/images/njit.jpg)
 
 
 ## NEMISIG -- Schedule
