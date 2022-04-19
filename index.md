@@ -5,7 +5,11 @@ NEMISIG (North East Music Information Special Interest Group) is a yearly inform
 If you have any questions, please direct them to the [Google Group](mailto:nemisig@googlegroups.com)! You may also wish to [join the group](https://groups.google.com/forum/#!forum/nemisig).
 
 ## Venue 
-This year, NEMISIG will be in Newark NJ, Saturday, June 4th 2022.  [Add this event to your calendar]( https://calendar.google.com/event?action=TEMPLATE&tmeid=M3BzMjcwdjhoMjdpbHRxNDNydjZjMzY5c2QgYWQ4MjhAbmppdC5lZHU&tmsrc=ad828%40njit.edu)
+
+
+This year, NEMISIG will be in Newark NJ, Saturday, June 4th 2022 at NJIT.  [Add this event to your calendar]( https://calendar.google.com/event?action=TEMPLATE&tmeid=M3BzMjcwdjhoMjdpbHRxNDNydjZjMzY5c2QgYWQ4MjhAbmppdC5lZHU&tmsrc=ad828%40njit.edu)
+
+![NJIT](/images/njit.png)
 
 
 ## NEMISIG -- Schedule
@@ -14,16 +18,18 @@ Saturday, June 4th, 2020
 
 Venue TBD: GITC 1400
 
-TODO: Update Schedule
-**Morning Schedule**
+Schedule TBD
+
+**Morning Schedule**: 
 
 
-**Lunch**
+**Lunch**: 
 
-**Afternoon Schedule**  
+**Afternoon Schedule**:  
 
 ### NEMIJAM
 
+NEMIJAM TBD
 
 ### Local Map & Parking
 
@@ -36,22 +42,19 @@ Parking is available in the designated lots. Click [here](https://www.google.com
 
 [Newark](https://www.newarknj.gov/) , the most populous city in NJ, is located within Essex County and is a part of the NYC Metropolitan Area. Newark is home to Branch Brook Park, with 360 Acres of meadows and trails, complete with fields and playgrounds as well one of the largest collections of cherry blossom trees on the Northeast. Just a short, accessible train ride from NYC through Newark-Penn Station.
 
-Newark has an outstanding sense of culture as well, whether it's an exhibit at one of the many local art galleries, or a trip to the Newark Museum, or a concert at the Prudential Center, there is always something happening here -- as well as tons of delicious Portuguese, Brazilian, and Spanish resturants that are treasured by the local, heavily immigrant oriented culture.
-
+Newark has an outstanding sense of culture as well, whether it's an exhibit at one of the many local art galleries, or a trip to the Newark Museum, or a concert at the Prudential Center, there is always something happening here -- as well as tons of delicious Portuguese, Brazilian, and Spanish resturants in the ironbound district
 ### Getting to NJIT
-- ** Subway: NJIT can be directly accessed through the Lightrail at Newark-Penn Station, there is a stop directly outside the university on Warren Street.
+NJIT can be directly accessed through the Lightrail at Newark-Penn Station, there is a stop directly outside the university on Warren Street.
 
-- ** Airport: Newark International Airport is a 15 minute drive from NJIT.
-
-- ** Buses:
-
-- ** Driving:  
+ 
 ### Staying in Newark
 
 Most Hotels are only a 10-15 minute drive to NJIT and are located either in Downtown Newark or in the neighboring area Harrison. There are two hotels in Northampton and one in Florence (a village of Northampton). Price quotes are approximate, based on a quick Google search:
 
 - **[Hampton Inn & Suites Newark-Harrison-Riverwalk](https://www.hilton.com/en/hotels/nwkhshx-hampton-suites-newark-harrison-riverwalk/):** $180/night
 - **[Marriot Downtown Newark](https://www.marriott.com/en-us/hotels/ewrdt-courtyard-newark-downtown/overview/):** $136/Night
-- **[TRYP Newark](https://trypnewark.com/):**
+- **[TRYP Newark](https://trypnewark.com/):** $120/Night
 
 [AirBnBs](https://www.airbnb.com/s/Newark--NJ/all) are also an option, with an average price around $70-110.
+
+*We hope you will enjoy your time here attending NEMISIG 2022!*
