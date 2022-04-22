@@ -6,20 +6,16 @@ If you have any questions, please direct them to the [Google Group](mailto:nemis
 
 ## Venue 
 
-
-This year, NEMISIG will be in Newark NJ, Saturday, June 4th 2022 at NJIT in the Campus Center, in the Faculty Dining Hall (2nd Floor CC) and Campus Center Terrace.
+This year, NEMISIG will be in Newark NJ, at NJIT.
+**It will be on Saturday, June 4th 2022 in the Campus Center, in the Faculty Dining Hall (2nd Floor CC) and Campus Center Terrace.
 
 ![NJIT](/images/njit.jpg)
-
-**Saturday, June 4th, 2020 
-
 
 ### Local Map & Parking
 
 ![A Map of NJIT](/images/njitmap.png)
 
 Parking is available in the designated lots. Click [here](https://www.google.com/maps/place/NJIT+Parking+Deck/@40.7404915,-74.18098,17z/data=!4m12!1m6!3m5!1s0x89c2537c4867fa33:0x65c4a69c2f21ba5a!2sNJIT+Parking+Deck!8m2!3d40.7404875!4d-74.1787913!3m4!1s0x89c2537c4867fa33:0x65c4a69c2f21ba5a!8m2!3d40.7404875!4d-74.1787913) for the Google Map pin of our parking garage.
-
 
 ## About Newark
 
