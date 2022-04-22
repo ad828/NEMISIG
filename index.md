@@ -7,29 +7,12 @@ If you have any questions, please direct them to the [Google Group](mailto:nemis
 ## Venue 
 
 
-This year, NEMISIG will be in Newark NJ, Saturday, June 4th 2022 at NJIT.  [Add this event to your calendar]( https://calendar.google.com/event?action=TEMPLATE&tmeid=M3BzMjcwdjhoMjdpbHRxNDNydjZjMzY5c2QgYWQ4MjhAbmppdC5lZHU&tmsrc=ad828%40njit.edu)
+This year, NEMISIG will be in Newark NJ, Saturday, June 4th 2022 at NJIT in the Campus Center, in the Faculty Dining Hall (2nd Floor CC) and Campus Center Terrace.
 
 ![NJIT](/images/njit.jpg)
 
+**Saturday, June 4th, 2020 
 
-## NEMISIG -- Schedule
-
-Saturday, June 4th, 2020 
-
-Venue TBD: GITC 1400
-
-Schedule TBD
-
-**Morning Schedule**: 
-
-
-**Lunch**: 
-
-**Afternoon Schedule**:  
-
-### NEMIJAM
-
-NEMIJAM TBD
 
 ### Local Map & Parking
 
@@ -44,7 +27,13 @@ Parking is available in the designated lots. Click [here](https://www.google.com
 
 Newark has an outstanding sense of culture as well, whether it's an exhibit at one of the many local art galleries, or a trip to the Newark Museum, or a concert at the Prudential Center, there is always something happening here -- as well as tons of delicious Portuguese, Brazilian, and Spanish resturants in the ironbound district
 ### Getting to NJIT
-NJIT can be directly accessed through the Lightrail at Newark-Penn Station, there is a stop directly outside the university on Warren Street.
+
+**NJIT can be directly accessed through the Lightrail at Newark-Penn Station, there is a stop directly outside the university on Warren Street.
+**From Penn Station in NYC, you can take the Montclair-Boonton Line to Newark-Broad Street, and then walk for around 5 minutes.
+**From WTC in NYC, you can take the Newark bound PATH train to get to Newark-Penn station, and then board the Lightrail to get right outside of NJIT. 
+**If you are landing at Newark International Airport, you can take the GO28 Newark Bloomfield via Broad St.
+**By bus, you can also take the 108, there is a bus stop right outside of NJIT as well.
+
 
  
 ### Staying in Newark
